@@ -87,5 +87,7 @@ Many organizations struggle to maintain adequate staffing, control unplanned abs
 - **Absenteeism Management:** Line‑of‑business managers track absence trends and deploy wellness programs where needed.  
 - **Turnover Mitigation:** Early identification of high‑turnover regions helped pilot retention incentives, cutting churn by 8% in Q3.
 
----
+
+<img width="1484" height="831" alt="HR_overview" src="https://github.com/user-attachments/assets/77537991-22ca-4261-9fe5-aa5e19e7e808" />
+
 
